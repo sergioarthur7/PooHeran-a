@@ -1,4 +1,4 @@
-# PooHeran-a
+# PooHeranca
 
 Kaio César Cardoso Silva  N° 24
 Sérgio Arthur Sobral Souza  N° 41
